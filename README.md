@@ -23,6 +23,7 @@ Languages: Python | JavaScript | SQL | R | C
 Frameworks: React | Node | Express | Flask | TailwindCSS
 Tools: Git | VSCode | Jupyter | Postman | MongoDB | MySQL
 Cloud: Firebase | Netlify | GitHub Pages
+```
 
 ## 🐣 #30NitesOfCode
 
