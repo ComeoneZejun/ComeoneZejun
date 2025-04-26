@@ -25,6 +25,6 @@ Tools: Git | VSCode | Jupyter | Postman | MongoDB | MySQL
 Cloud: Firebase | Netlify | GitHub Pages
 ```
 
-##### #30NitesOfCode: [Check out my progress!](https://www.codedex.io/@COMEONZEJUN/30-nites-of-code)  
-![@COMEONZEJUN #30NitesOfCode](https://www.codedex.io/api/petStatus?user=COMEONZEJUN)
+##### #30NitesOfCode: [Check out my progress!](https://www.codedex.io/@COMEONZEMING/30-nites-of-code)  
+![@COMEONZEMING #30NitesOfCode](https://www.codedex.io/api/petStatus?user=COMEONZEMING)
 
