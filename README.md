@@ -1,4 +1,4 @@
-<h2 align="center">🌟 Hey, I'm Zejun (泽钧) — All-Stack Dream Coder 🌟</h2>
+<h2 align="center">🌟 Hey, I'm Zeming (泽铭) — All-Stack Dream Coder 🌟</h2>
 <p align="center">
   <em>“Code like art, learn like water.”</em> <br>
   💡 Full Stack · Data Curious · Aesthetic-Driven
